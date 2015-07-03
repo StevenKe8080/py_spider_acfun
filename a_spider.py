@@ -7,6 +7,7 @@ import urllib2
 import re
 import os
 import time
+import traceback
 from BeautifulSoup import BeautifulSoup
 
 
